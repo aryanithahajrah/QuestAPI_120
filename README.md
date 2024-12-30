@@ -1,1 +1,1 @@
-Tidak dapat dikarenakan gradle corrupt
+Tidak dapat run dikarenakan gradle corrupt
